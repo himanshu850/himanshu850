@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @himanshu850
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning html and css  
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 👋 Hi, I’m himanshu
+- 👀 I’m interested in software programming
+- 🌱 I’m currently learning game programming  
+- 💞️ I’m looking to collaborate on mobile applications,websites and application softwares.
+- 📫 How to reach me himanshupparmar824@gmail.com
 
 <!---
 himanshu850/himanshu850 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
