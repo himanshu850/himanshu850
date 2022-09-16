@@ -1,6 +1,5 @@
-- 👋 Hi, I’m himanshu
-- 👀 I’m interested in software programming
-- 🌱 I’m currently learning game programming  
+- 👋 Hi, I’m Himanshu
+- 👀 I’m interested in backend software development 
 - 💞️ I’m looking to collaborate on mobile applications,websites and application softwares.
 - 📫 How to reach me himanshupparmar824@gmail.com
 
